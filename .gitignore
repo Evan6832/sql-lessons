@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Claude Code project-local data
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local screenshots / scratch files
+*.png
+*.jpg
+*.jpeg
+*.heic
