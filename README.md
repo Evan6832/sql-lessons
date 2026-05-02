@@ -14,14 +14,14 @@ Click a badge to open the lesson in Colab. **Always come back to this page** to 
 |---|--------|-------------------|------|
 | 00 | What is SQL? | Database, table, row, column | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/00_concepts.ipynb) |
 | 01 | Your first query | `SELECT`, `FROM`, `LIMIT` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/01_first_query.ipynb) |
-| 02 | Filtering | `WHERE`, `AND`/`OR`, `IN`, `BETWEEN`, `LIKE` | _coming soon_ |
-| 03 | Sorting & DISTINCT | `ORDER BY`, `DISTINCT` | _coming soon_ |
-| 04 | Aggregations | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` | _coming soon_ |
-| 05 | Grouping | `GROUP BY`, `HAVING` | _coming soon_ |
-| 06 | Joins | `INNER JOIN`, `LEFT JOIN` | _coming soon_ |
-| 07 | Conditional logic | `CASE WHEN` | _coming soon_ |
-| 08 | Dates | Date functions in GoogleSQL | _coming soon_ |
-| 09 | Capstone | Putting it all together | _coming soon_ |
+| 02 | Filtering | `WHERE`, `AND`/`OR`, `IN`, `BETWEEN`, `LIKE` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/02_filtering.ipynb) |
+| 03 | Sorting & DISTINCT | `ORDER BY`, `DISTINCT` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/03_sorting.ipynb) |
+| 04 | Aggregations | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/04_aggregations.ipynb) |
+| 05 | Grouping | `GROUP BY`, `HAVING` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/05_grouping.ipynb) |
+| 06 | Joins | `INNER JOIN`, `LEFT JOIN` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/06_joins.ipynb) |
+| 07 | Conditional logic | `CASE WHEN` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/07_conditional.ipynb) |
+| 08 | Dates | Date functions in GoogleSQL | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/08_dates.ipynb) |
+| 09 | Capstone | Putting it all together | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Evan6832/sql-lessons/blob/main/09_capstone.ipynb) |
 
 Work through them in order — each builds on the last.
 
